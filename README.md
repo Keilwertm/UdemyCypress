@@ -1,2 +1,2 @@
 # UdemyCypress
-Following a Udemy course and learning Cypress
+This is a JS basics course. 
